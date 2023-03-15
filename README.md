@@ -4,8 +4,8 @@
   <img src="https://user-images.githubusercontent.com/82281869/225434898-8da28cbf-243b-467a-9959-5308f0ec295e.jpeg" alt="suzubki, cover photo" />
 </p>
 
-💬 Do you want to know more about me?
-💬 Do you want to see some of my projects?
+💬 Do you want to know more about me?<br/>
+💬 Do you want to see some of my projects?<br/>
 --> Visit https://dev-dana.com
  
  
