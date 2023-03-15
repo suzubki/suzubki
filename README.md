@@ -1,19 +1,15 @@
-## Hola, soy Darwin Narro 👋
+## Hi!! I'm Darwin Narro 👋
 
 <p align="center">
-  ![suzubki, da_narro on instagram, profile](https://user-images.githubusercontent.com/82281869/225431822-c98f8584-3caf-42ab-8081-482a6ebbcd1b.jpeg)
+  <img src="https://user-images.githubusercontent.com/82281869/225431822-c98f8584-3caf-42ab-8081-482a6ebbcd1b.jpeg" alt="suzubki, github profile" />
 </p>
 
-
-🌦️🌦️🌦️🌦️🌦️
-<pre>
-  <span>Revisa mi último proyecto realizado 😄</span>
-  <span><a href="#">Panda</a></span>
-</pre> 
-
-💬¿Quieres saber más sobre mí? Visita https://dev-dana.com/ 
+💬 Do you want to know more about me?
+💬 Do you want to see some of my projects?
+--> Visit https://dev-dana.com
  
-📫 Contáctame
+ 
+📫 Contact me
 1. [LinkedIn](https://www.linkedin.com/in/darwin-narro/)
 2. Gmail - darwinccn25@gmail.com
 3. Discord - Pandam#2557
