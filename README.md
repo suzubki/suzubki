@@ -1,7 +1,7 @@
 ## Hi!! I'm Darwin Narro 👋
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82281869/225431822-c98f8584-3caf-42ab-8081-482a6ebbcd1b.jpeg" alt="suzubki, github profile" />
+  <img src="https://user-images.githubusercontent.com/82281869/225434898-8da28cbf-243b-467a-9959-5308f0ec295e.jpeg" alt="suzubki, cover photo" />
 </p>
 
 💬 Do you want to know more about me?
