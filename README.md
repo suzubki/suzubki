@@ -36,8 +36,6 @@ I am a full stack developer from Peru.
 1. [LinkedIn](https://www.linkedin.com/in/darwin-narro/)
 2. Gmail - darwinccn25@gmail.com
 3. Discord - Pandam#2557
-4. [Instagram](https://www.instagram.com/da_narro/)
-
 
 <!--
 **suzubki/suzubki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
