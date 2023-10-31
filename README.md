@@ -16,7 +16,7 @@ I am a full stack developer from Peru.
 *Check my website (https://dev-dana.com)*
 
 ---
-
+<!--
 ## 💻 Technologies
 
 <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" title="HTML" width='40' height='40' />&nbsp;
@@ -29,7 +29,7 @@ I am a full stack developer from Peru.
 <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" title="PostgreSQL" width='40' height='40' />&nbsp;
 <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" title="MongoDB" width='40' height='40' />&nbsp;
 <img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" title="Jest" width='40' height='40' />&nbsp;
-
+!-->
 ---
 
 ### 📫 Contact me
